@@ -42,7 +42,9 @@ The legal basis for the chat is legitimate interest: running a small site that a
 
 ## Children
 
-This site is not aimed at children. If you are under 16, please ask a parent or guardian before writing anything here.
+Tovuti hii si kwa watu walio chini ya miaka 18. Inazungumzia imani katika Yesu, na hiyo ni maudhui ya kidini, kwa hivyo imeandikwa kwa watu wazima. Ikiwa una umri wa chini ya miaka 18, tafadhali usishiriki taarifa zako za kibinafsi hapa, na usimwandikie Jonathan.
+
+Nchini Uhispania, sheria inasema mtoto aliye chini ya miaka 14 anahitaji idhini ya mzazi au mlezi kabla ya kushiriki data za kibinafsi mtandaoni. Sheria ya tovuti hii ni kali zaidi kuliko hiyo: ukiwa chini ya miaka 18, tovuti hii si kwa ajili yako.
 
 ## Changes
 
