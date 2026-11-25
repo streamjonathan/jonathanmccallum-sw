@@ -6,7 +6,7 @@ original_url: https://jonathanmccallum.com/privacy/
 
 # Faragha
 
-Tovuti hii inaendeshwa na Jonathan McCallum, anayeishi Getaria, Uhispania. Ni tovuti ndogo ya kibinafsi: maandishi, na gumzo linalojibu kutoka kwenye maandishi hayo. Hakuna akaunti za kuunda hapa, hakuna ufuatiliaji, hakuna matangazo, na hakuna cha kuuza. Inafuata sheria ya faragha ya Ulaya (GDPR) kwa wageni wote, popote walipo duniani.
+Tovuti hii inaendeshwa na Jonathan McCallum, anayeishi Nchi ya Basque. Ni tovuti ndogo ya kibinafsi: maandishi, na gumzo linalojibu kutoka kwenye maandishi hayo. Hakuna akaunti za kuunda hapa, hakuna ufuatiliaji, hakuna matangazo, na hakuna cha kuuza. Inafuata sheria ya faragha ya Ulaya (GDPR) kwa wageni wote, popote walipo duniani.
 
 Ikiwa unahitaji kuuliza kuhusu chochote kwenye ukurasa huu, au kuhusu data yako ya kibinafsi, mwandikie Jonathan kwa <a href="#" data-contact-email data-contact-email-text>Nitumiwe barua pepe</a>. Unaweza pia kumtumia ujumbe kwenye [Instagram](https://www.instagram.com/jonamccallum) au [Threads](https://www.threads.com/@jonamccallum).
 
